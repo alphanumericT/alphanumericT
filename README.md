@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28466121/README.md)
+[README (1).md](https://github.com/user-attachments/files/28466227/README.1.md)
 <h1 align="center">Hi, I'm Axl Benedict C. Bautista 👋</h1>
 <h3 align="center">BSIT Student | Aspiring Full-Stack Developer | Philippines 🇵🇭</h3>
 
@@ -35,6 +35,8 @@
 | Project | Description | Tech Used |
 |---|---|---|
 | 🖥️ **Portfolio Website** | Personal portfolio showcasing my work and skills | HTML, CSS, JavaScript |
+| 🚗 **Swiftroute** | Route planning and navigation application | JavaScript |
+| 🥾 **GoHikee** | Hiking and outdoor adventure platform | PHP |
 
 > More projects coming soon — stay tuned! 🚧
 
