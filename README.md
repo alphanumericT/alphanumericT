@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/28466318/README.2.md)
+[README.md](https://github.com/user-attachments/files/28466318/README.2.md)
 <h1 align="center">Hi, I'm Axl Benedict C. Bautista 👋</h1>
 <h3 align="center">BSIT Student | Aspiring Full-Stack Developer | Philippines 🇵🇭</h3>
 
