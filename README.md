@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/28466227/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/28466318/README.2.md)
 <h1 align="center">Hi, I'm Axl Benedict C. Bautista 👋</h1>
 <h3 align="center">BSIT Student | Aspiring Full-Stack Developer | Philippines 🇵🇭</h3>
 
@@ -24,6 +24,7 @@
 ### ⚙️ Backend & Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
