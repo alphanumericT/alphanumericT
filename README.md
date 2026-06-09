@@ -36,7 +36,7 @@
 | Project | Description | Tech Used |
 |---|---|---|
 | 🖥️ **Portfolio Website** | Personal portfolio showcasing my work and skills | HTML, CSS, JavaScript |
-| 🚗 **Swiftroute** | Route planning and navigation application | JavaScript | Java
+| 🚗 **Swiftroute** | Route planning and navigation application | JavaScript, Java |
 | 🥾 **GoHikee** | Hiking and outdoor adventure platform | PHP |
 
 > More projects coming soon — stay tuned! 🚧
